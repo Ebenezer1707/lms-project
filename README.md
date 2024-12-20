@@ -50,5 +50,5 @@ lms-project/
 ### 1. Clone the Repository
 Clone this repository to your local machine using Git:
 ```bash
-git clone https://github.com/your-username/lms-project.git
+git clone https://github.com/Ebenezer1707/lms-project.git
 
